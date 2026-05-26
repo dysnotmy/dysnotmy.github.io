@@ -1,0 +1,12 @@
+{
+  "names": {
+    "_": "801ae0b1067bfeac8d766a08d0d7d5ff5a6bae3d4334743dec70d917a9861b31"
+  },
+  "relays": {
+    "801ae0b1067bfeac8d766a08d0d7d5ff5a6bae3d4334743dec70d917a9861b31": [
+      "wss://x.kojira.io",
+      "wss://nos.lol",
+      "wss://nostr-01.yakihonne.com"
+    ]
+  }
+}
